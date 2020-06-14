@@ -45,6 +45,10 @@
     "react-bootstrap": "^1.0.1",
     "react-router": "^5.2.0",
     "react-router-dom": "^5.2.0",
-    "styled-components": "^5.1.1"
+    "styled-components": "^5.1.1",
+    "websocket-extensions": ">=0.1.4",
+    "acorn": ">=6.4.1",
+    "minimist": ">=0.2.1",
+    "serialize-javascript": ">=2.1.1"
   }
 }
